@@ -1,0 +1,9 @@
+{
+	"name": "adfmarw",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dc5f71c-299d-4719-8a62-ae364c575d08",
+		"tenantId": "7b4a3de9-7eb5-4f76-8b94-610e737564b9"
+	}
+}
